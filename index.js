@@ -120,14 +120,6 @@ const promptQuestions = [
   },
 ];
 
-// Function to initialize app
-function init() {
-  inquirer.prompt(promptQuestions)
-    .then(function (data) {
-      writeREADME('./dist/README.md', generateMarkdown(data));
-    });
-};
-
 // Function to write README file
 function writeREADME(fileName, data) {
   fs.writeFile(fileName, data, (err) => {
@@ -139,6 +131,16 @@ function writeREADME(fileName, data) {
     console.log('Your README has been generated, check the dist folder')
   });
 };
+
+// Function to initialize app
+function init() {
+  inquirer.prompt(promptQuestions)
+    .then(function (data) {
+      writeREADME('./dist/README.md', generateMarkdown(data));
+    });
+};
+
+
 
 
 // call initialize app

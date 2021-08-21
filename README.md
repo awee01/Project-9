@@ -53,4 +53,5 @@ See the video on how to run the application. Also screenshots for further help.
 Contact me at:
 
 Email: awee@myseneca.ca
+<br>
 GitHub: https://github.com/awee01
