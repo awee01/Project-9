@@ -127,8 +127,9 @@ function writeREADME(fileName, data) {
       reject(err);
       return;
     }
-    console.log('Your README has been generated, check the dist folder')
   });
+  
+  console.log('Your README has been generated, check the dist folder')
 };
 
 // Function to initialize app
@@ -138,8 +139,6 @@ function init() {
       writeREADME('./dist/README.md', generateMarkdown(data));
     });
 };
-
-
 
 
 // call initialize app
