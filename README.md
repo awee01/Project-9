@@ -47,6 +47,8 @@ See the questions section for information on contacting me to help contribute to
 
 See the video on how to run the application. Also review the screenshots for further help.
 
+There is a minimal template example in the dist folder. 
+
 
 ## Questions:
 
