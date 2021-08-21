@@ -1,11 +1,11 @@
  
     
-# EXAMPLE TITLE
+# example
 
 
 ## Description:
     
-EXAMPLE DESCRIPT
+example
     
 
 ## Table of Contents 
@@ -19,11 +19,11 @@ EXAMPLE DESCRIPT
 
 ## Installation:
 
-EXAMPLE INSTRUCTIONS
+example
 
 ## Usage:
 
-EXAMPLE USER
+example
 
 ## Licensing:
 
@@ -35,11 +35,11 @@ This application is under the Mozilla license.
 
 ## Contributions:
 
-EXAMPLE CONTR
+example
 
 ## Tests:
 
-EXAMPLE INST
+example
 
 ## Questions?:
 
