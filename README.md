@@ -45,12 +45,12 @@ See the questions section for information on contacting me to help contribute to
 
 ## Tests:
 
-See the video on how to run the application. Also screenshots for further help.
+See the video on how to run the application. Also review the screenshots for further help.
 
 
 ## Questions:
 
-Contact me at:
+If you have any questions, contact me at:
 
 Email: awee@myseneca.ca
 <br>
