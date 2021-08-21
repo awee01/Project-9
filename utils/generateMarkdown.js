@@ -36,60 +36,60 @@ function generateMarkdown(data) {
   }
 
     // Populating README
-    return `
-
-    # ${data.title}
-
-
-    ## Description:
+    return ` 
     
-    ${data.description}
+# ${data.title}
+
+
+## Description:
+    
+${data.description}
     
 
-    ## Table of Contents 
+## Table of Contents 
 
-    * [Installation](#Installation)
-    * [Usage](#Usage)
-    * [License](#License)
-    * [Contributions](#Contributions)
-    * [Tests](#Tests)
-    * [Questions](#Questions)
+* [Installation](#Installation)
+* [Usage](#Usage)
+* [License](#License)
+* [Contributions](#Contributions)
+* [Tests](#Tests)
+* [Questions](#Questions)
 
-    ## Installation:
+## Installation:
 
-    ${data.installation}
+${data.installation}
 
-    ## Usage:
+## Usage:
 
-    ${data.usage}
+${data.usage}
 
-    ## Licensing:
+## Licensing:
 
-    ![License](https://img.shields.io/badge/License-${badge}-blue.svg)
+![License](https://img.shields.io/badge/License-${badge}-blue.svg)
 
-    <br>
+<br>
 
-    This application is under the ${data.license} license. 
+This application is under the ${data.license} license. 
 
-    ## Contributions:
+## Contributions:
 
-    ${data.contributions}
+${data.contributions}
 
-    ## Tests:
+## Tests:
 
-    ${data.tests}
+${data.tests}
 
-    ## Questions?:
+## Questions?:
 
-    Contact me at:
+Contact me at:
 
-    - Github: [${data.username}](https://github.com/${data.username})
+- Github: [${data.username}](https://github.com/${data.username})
 
-    <br>
+<br>
     
-    - Email: ${data.email} 
+- Email: ${data.email} 
     
-    `;
+`;
   }
   
   module.exports = generateMarkdown;

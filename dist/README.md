@@ -1,51 +1,53 @@
-
-
-    # README generator
-
-
-    ## Description:
+ 
     
-    generates a readme from user input
+# run-buddy
+
+
+## Description:
+    
+CSS
     
 
-    ## Table of Contents 
+## Table of Contents 
 
-    * [Installation](#Installation)
-    * [Usage](#Usage)
-    * [License](#License)
-    * [Contribution](#Contribution)
-    * [Tests](#Tests)
-    * [Questions](#Questions)
+* [Installation](#Installation)
+* [Usage](#Usage)
+* [License](#License)
+* [Contributions](#Contributions)
+* [Tests](#Tests)
+* [Questions](#Questions)
 
-    ## Installation:
+## Installation:
 
-    install Node, then use node index.js command
+ddd
 
-    ## Usage:
+## Usage:
 
-    to generate a readme
+dddd
 
-    ## Licensing:
+## Licensing:
 
-    ![License](https://img.shields.io/badge/License-MPL%202.0-blue.svg)
+![License](https://img.shields.io/badge/License-MPL%202.0-blue.svg)
 
-    <br>
+<br>
 
-    This application is under the Mozilla license. 
+This application is under the Mozilla license. 
 
-    ## Tests:
+## Contributions:
 
-    test
+dddddd
 
-    ## Contribution:
+## Tests:
 
-    contact me with questions
+dasdsdd
 
-    ## Questions?:
+## Questions?:
 
-    Contact me at:
+Contact me at:
 
-    - Github: [awee01](https://github.com/awee01)
-    - Email: awee@myseneca.ca 
+- Github: [awee01](https://github.com/awee01)
+
+<br>
     
+- Email: awee@myseneca.ca 
     
