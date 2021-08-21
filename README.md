@@ -3,7 +3,7 @@
 
 ## Description:
 
-This is an application that generates a README from user input. Users are prompted several questions and the README is dynamically generated. The generated file is located in the dist folder
+This is an application that generates a README from user input. Users are prompted several questions and the README is dynamically generated. The generated file is located in the dist folder.
 
 ## Table of Contents
 
@@ -17,7 +17,7 @@ This is an application that generates a README from user input. Users are prompt
 
 ## Installation:
 
-1. Download the files, navigate your console browser to the folder's location
+1. Download the files, navigate your console browser to the folder's location.
 
 2. Make sure to initialize npm and inquirer by inputting the following commands:
 
