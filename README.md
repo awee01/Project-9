@@ -5,9 +5,9 @@
 
 This is an application that generates a README from user input. Users are prompted several questions and the README is dynamically generated. The generated file is located in the dist folder. 
 
-This version does not ask for validation, null inputs are valid
+This version does not ask for validation, null inputs are valid.
 
-Check the other branch for the optional version that does not accept null inputs to the prompt questions
+Check the other branch for the optional version that does not accept null inputs to the prompt questions.
 
 ## Table of Contents
 
