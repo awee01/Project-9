@@ -1,11 +1,11 @@
  
     
-# run-buddy
+# EXAMPLE TITLE
 
 
 ## Description:
     
-CSS
+EXAMPLE DESCRIPT
     
 
 ## Table of Contents 
@@ -19,11 +19,11 @@ CSS
 
 ## Installation:
 
-ddd
+EXAMPLE INSTRUCTIONS
 
 ## Usage:
 
-dddd
+EXAMPLE USER
 
 ## Licensing:
 
@@ -35,11 +35,11 @@ This application is under the Mozilla license.
 
 ## Contributions:
 
-dddddd
+EXAMPLE CONTR
 
 ## Tests:
 
-dasdsdd
+EXAMPLE INST
 
 ## Questions?:
 
