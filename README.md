@@ -32,7 +32,7 @@ This is an application that generates a README from user input. Users are prompt
 
 ## Usage:
 
-This application's purpose is to generate a README from several user prompts. The questions can be manipulated and changed in the index.js file. Your generated README is located in the dist folder, not to be condused with the README file in the project root folder.
+This application's purpose is to generate a README from several user prompts. The questions can be manipulated and changed in the index.js file. Your generated README is located in the dist folder, not to be condused with the README file in the project root folder which is this document you are reading.
 
 
 ## License:
