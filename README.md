@@ -3,7 +3,7 @@
 
 ## Description:
 
-This is an application that generates a README from user input. Users are prompted several questions and the README is dynamically generated. The generated file is located in the dist folder.
+This is an application that generates a README from user input. Users are prompted several questions and the README is dynamically generated. The generated file is located in the dist folder. This version does not ask for validation, check the other branch for the optional version that does not accept null inputs to the prompt questions
 
 ## Table of Contents
 
