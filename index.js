@@ -61,7 +61,7 @@ const promptQuestions = [
   },
   {
     type: 'input',
-    name: 'contributing',
+    name: 'contributions',
     message: 'Suggest how users can contribute to the project',
     validate: contributeInput => {
       if (contributeInput) {
@@ -127,7 +127,6 @@ function writeREADME(fileName, data) {
       reject(err);
       return;
     }
-
     console.log('Your README has been generated, check the dist folder')
   });
 };
