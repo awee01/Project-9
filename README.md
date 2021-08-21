@@ -55,6 +55,8 @@ See the video on how to run the application. Also review the screenshots for fur
 
 There is a minimal template example in the dist folder. 
 
+The Program is run through the index.js file and the generateMarkdown.js file in the util folder
+
 
 ## Questions:
 
