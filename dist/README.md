@@ -1,11 +1,11 @@
  
     
-# example
+# Example
 
 
 ## Description:
     
-example
+exampl
     
 
 ## Table of Contents 
@@ -29,8 +29,6 @@ example
 
 ![License](https://img.shields.io/badge/License-MPL%202.0-blue.svg)
 
-<br>
-
 This application is under the Mozilla license. 
 
 ## Contributions:
@@ -46,8 +44,6 @@ example
 Contact me at:
 
 - Github: [awee01](https://github.com/awee01)
-
-<br>
     
 - Email: awee@myseneca.ca 
     

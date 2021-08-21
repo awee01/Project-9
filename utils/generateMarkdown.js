@@ -67,8 +67,6 @@ ${data.usage}
 
 ![License](https://img.shields.io/badge/License-${badge}-blue.svg)
 
-<br>
-
 This application is under the ${data.license} license. 
 
 ## Contributions:
@@ -84,8 +82,6 @@ ${data.tests}
 Contact me at:
 
 - Github: [${data.username}](https://github.com/${data.username})
-
-<br>
     
 - Email: ${data.email} 
     
