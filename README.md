@@ -37,7 +37,7 @@ This application's purpose is to generate a README from several user prompts. Th
 
 ## License:
 
-Users select which license they want to use.
+Users select which license they want to use for their generated READMEs.
 
 ## Contribution:
 
