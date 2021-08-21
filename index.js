@@ -85,6 +85,15 @@ const promptQuestions = [
       }
     }
   },
+  
+   {
+    type: 'list',
+    name: 'license',
+    message: 'Choose a license for your project. Use the up and down arrows and enter to select. The most updated version of the license will be used ',
+    choices: ['Apache', 'MIT', 'Mozilla', 'GNU', 'Boost', 'BSD', 'ISC', 'IBM', 'Unlicense', 'Eclipse'],
+
+  },
+  
   {
     type: 'input',
     name: 'username',
