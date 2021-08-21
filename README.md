@@ -22,6 +22,7 @@ This is an application that generates a README from user input. Users are prompt
 2. Make sure to initialize npm and inquirer by inputting the following commands:
 
     npm init
+    <br>
     npm install inquirer
 
 3. Run the index.js through node by inputting the following command:
